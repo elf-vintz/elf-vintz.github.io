@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Les Elfes"
+date:   2024-10-15 23:00:25 +0200
+categories: presentation
+index: 1
+subindex: 0
+---
+Les Elfes arrivèrent en Tielestel par la mer, il y a de cela bien longtemps. Lorsqu'ils posèrent pied à terre, ils démontèrent les navires qui les avaient emmenés ici et choisirent d'un commun accord d'oublier tout ce qui avait pu faire leur vie au delà des mers. Des restes de leurs navires, ils firent un temple en l'honneur d'Elandor, Divin Seigneur du Vent, qui les avait poussés jusqu'ici. 
+Puis ils se répandirent à travers toutes les régions de Tielestel, fondirent villes et cités et se séparèrent en divers peuples qui développèrent des traditions différentes adaptées aux lieux où ils vivaient. Autour du temple d'Elandor, les Elfes de Lumière battirent Cylandiel, la plus resplendissante des cités elfes.
+
+Neuf millénaires se sont écoulés depuis l'arrivée des Elfes et la paix règne. En Cylandiel, trône la toute-puissante Eäralyn Daevaëlin, Reine des Vents et des Étoiles, Dame de l'Arbre Eternel, Gardienne des Voies Astrales. Tous les royaumes, tous les duchés et toutes les baronnies, lui rendent hommage. Et sous sa garde, tous les peuples Elfes connaisent une paix sans pareil, dirigés par les plus nobles des Elfes. 
+<br />
+----
+
+Les Elfes se répartissent en six nations: 
+- En Cylandiel et dans les terres alentours, vivent les Elfes de Lumière, maitre de la magie et des prophéties,
+- Au nord, au Royaume de Blanchevoie, vivent les Elfes de Givre, rudes et féroces, dont le caractère est aussi froid que l'est leur pays,
+- Au sud, dans les forêts de Evaariad, vivent les Elfes des Bois, connus comme des poêtes, des artistes et des musiciens
+- Au fond des montagnes et sous les terres de Tielestel, vivent les Elfes des Ombres, peuple sombre et taciturne, 
+- Voisins des Elfes des Ombres, occupant la cime des montagnes, les Elfes du Ciel, aux ailes magnifiques et aux cités battues par les vents,
+- Enfin les Elfes du Coeur-Marin, descendants des navigateurs qui menèrent les navires Elfes jusqu'en Tielestel. Ils vivent actuellement comme un peuple nomade sur toutes les rivières des Royauems.
+
+----
+
+Dans les terres de Tielestel, les Elfes, respectueux de la loi d'Elandor, se conforment aux 5 ordres décrit dans le Grimoire des Ombres et de la Clarté:
+- Les Gardiens de l'Aube Eternelle, dirigeants de toutes la nations, dont la première est la Reine Eäralyn Daevaëlin.
+- Les Porteurs de Parole, représentants d'Elandor et responsable de son culte.
+- Les Servants du Métal, bras armé du pouvoir, garant dans l'ordre et responsable de la lutte contre toute les menaces.
+- Les Maitres des Echanges, amnenant à chaque endroit les biens qui y sont nécessaires.
+- Les Mains de l'Arbre-Forge, serviteurs dévoués, ouvriers infatigables responsable du bien-être matériel de tous.
+
+----
+Les Elfes ne vénèrent qu'un seul dieu: Elandor, Maitre du Ciel, Seigneur du Vent, Porteur de la Flamme Solaire. Son culte enseigne aux Elfes les valeurs morales qui permettent à chacun de connaitre sa place sur le Vrai Chemin des Etoiles. Le Grimoire des Ombres de de la Clarté, livre redigé d'après les mots d'Elandor lui-même, édicte toutes les bases des actuelles lois elfiques. Il est la source sur laquelle chaque Elfe doit se baser pour bien se comporter en sociéte.
+
+
+
+{% include notecontainer.html content="La Reine n'est pas la plus charmante des Elfes. Elle joue les gentilles devant la bonne société mais si elle le pouvait elle ferait pendre tous les impudents. //On peut la comprendre vu l'inutilité de toute cette insupportable bande de parasites. // Les Castes et ce fichu bouquin sont une façon assez peu subtile d'empêcher les gens de faire trop de vagues." %}

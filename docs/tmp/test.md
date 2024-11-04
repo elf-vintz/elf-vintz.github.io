@@ -1,0 +1,15 @@
+Au commencement de la Création, les Essences existaient en un état de totale indépendance, sans lien ni harmonie entre elles. Dans leur isolement, elles s’affrontaient en une lutte perpétuelle, dénuée de sens, un chaos sans dessein. Mais alors, le Seigneur Anelios, en sa sagesse infinie, contempla cet état désordonné et décida d’instaurer un semblant d’équilibre.
+
+Dans sa volonté souveraine, Il ordonna aux Essences de se rassembler, de s’organiser, afin que l’Ordre naisse du tumulte, et que le grand dessein du monde puisse prendre forme. Les Essences, soumises à cette injonction divine, obéirent avec révérence. Ainsi furent formées les premières Cours, chacune incarnant une vision sacrée de l’univers et de ce qui était juste pour son bon fonctionnement.
+
+Ces Cours primordiales devinrent les Cours majeures, telles que nous les vénérons aujourd'hui. Au sein de chacune, au fil des âges, des factions se constituèrent, connues comme les Cours mineures, chacune poursuivant un reflet de la vision originelle.
+
+Ainsi, en ce jour, nous savons qu’il existe huit Cours majeures, pilier de l’ordre cosmique, et des dizaines de Cours mineures, gardiennes des fragments de vérité. Toutes, dans leur diversité, servent le dessein du Seigneur Anelios et maintiennent le fragile équilibre de la Création.
+
+Dans leur majestueuse hiérarchie, les Cours majeures sont chacune gouvernées par un chef vénéré, portant le titre sacré de Chancelier. Ce dernier, investi d’un pouvoir absolu, est le bras exécutif du Seigneur Anelios, à qui il doit rendre des comptes. Que la Cour vienne à faillir aux Lois sacrées de l'Entropie, et le courroux du Seigneur Anelios s'abat sans pitié sur le Chancelier, en punition de son incapacité à maintenir l’ordre divin.
+
+Le Chancelier, en sa pleine autorité, possède tout pouvoir pour contraindre les membres de sa Cour à obéir aux préceptes de l’Entropie et à préserver l’équilibre. Toutefois, les Essences, dans leur nature libre et changeante, peuvent, si tel est leur désir, quitter une Cour pour en rejoindre une autre. Ce choix n’est pas sans risque, car rien n’interdit à la Cour quittée de soumettre l'Essence dissidente à des brimades ou des représailles subtiles. Ainsi, rares sont celles qui osent franchir cette voie périlleuse.
+
+En de rares occasions, il arrive qu’une Cour mineure tout entière choisisse de se détourner de son allégeance première. Cependant, ce revirement collectif provoque souvent des tumultes et des désordres parmi les Cours, ébranlant l’harmonie sacrée. De tels bouleversements, dans leur impudence, risquent de susciter l'ire du Seigneur Anelios, qui voit en eux une perturbation de l’ordre qu’Il a établi.
+
+{% include notecontainer.html content="Les Cours tiennent lieu de familles pour les Essences et elles peuvent s'y sociabiliser en fonction de leurs affinités. Et comme dans toutes les familles, il y a des gens qu'on apprécient et des gens qu'on déteste (et de vieux oncle qu'on a envie de frapper) // Blablabla" %}

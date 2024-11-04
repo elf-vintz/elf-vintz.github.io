@@ -1,0 +1,21 @@
+<div class="articles">
+<h2 class="center"> Sommaire </h2>
+  {% assign indexed = site.posts | sort: "index" | group_by: "index"  %}
+  {% for index in indexed %}
+	{% assign posts = index.items | sort:  "subindex" %}
+	  {% for post in posts %}
+		  <div class="" >
+			{% if post.subindex == 0 %}
+				<a href="{{ site.baseurl }}{{ post.url }}" class="link" >
+					<h4 style="margin-bottom: 0.75rem;">[&nbsp;{{post.index}}&nbsp;] {{ post.title }}</h4>
+				</a>
+			{% endif %}
+			{% if post.subindex > 0 %}
+				<a href="{{ site.baseurl }}{{ post.url }}" class="link" style="">
+					<h5 style="margin-bottom: 0.25rem; margin-left: 35px">{{post.index}}&nbsp;-&nbsp{{post.subindex}} {{ post.title }}</h5>
+				</a>
+			{% endif %}
+		  </div>
+	  {% endfor %}
+  {% endfor %}
+</div>

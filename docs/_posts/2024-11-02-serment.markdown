@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Le Serment d'Elandor"
+date: 2024-11-02 10:10:30 +0200
+categories: presentation
+index: 1
+subindex: 2
+---
+Alors qu'elle venait de décéder, Elandor transporta le corps de Noeranaë jusqu'au bord du monde. Là, il construisit un mausolée et prononça ce qui est connu comme le Serment pour l'Eternité ou Serment d'Elandor:
+<br />
+<br />
+> **Le temps n'est rien pour nos cœurs,**
+> **Pas plus qu'une ombre fugace sur le bord des heures.**
+> **Quand les millions d’étoiles du ciel auront sombré,**
+> **Peut-être, un jour, pourrais-je cesser de t’aimer.**
+> 
+> **Quand les rivières cesseront de murmurer aux monts,**
+> **Et que les vents eux-mêmes perdront leur nom,**
+> **Peut-être, alors, mon âme se détachera,**
+> **Loin de cette foi qui te voue chaque éclat.**
+> 
+> **Mais que les jours s'effacent ou que les mondes se taisent,**
+> **Nul espace, nul silence ne sera mon malaise.**
+> **Si l'infini même venait à s'effondrer,**
+> **Mon serment pour toi saurait seul perdurer.**
+<br />
+
+Ce serment qui représentait au départ l'amour d'Elandor pour son épouse est maintenant devenu le serment que le souverain des Elfes prête à chaque [Convergence]({% link _posts/2024-10-15-convergence.markdown %}). Cela le lie au peuple elfique plus que toute autre obligation. Certains Elfes parmi les plus croyants pensent que ce serment possède une sorte de pouvoir magique qui condamnerait un souverain qui transgresserait sa promesse.
+
+C'est aussi un serment que un Elfe peut prononcer envers une dame. Il proclame ainsi son amour éternel envers elle et il lie sa vie à celle de sa bien-aimée même au delà de la mort. C'est un serment que les Elfes prennent très au sérieux et un Elfe qui, après avoir prononcé ce serment, serait pris à courtiser une autre Dame serait probablement ostracisé par la bonne société Elfe. 
+
+Kelevaë, un Seigneur Elfe, avait prêté ce serment alors qu'il avait une trentaine d'années. Une centaine d'années plus tard, la dame de son coeur mourut d'une étrange maladie. Vers la fin de sa vie alors qu'il était agé de près de 400 ans, il tomba amoureux d'une jeune femme elfe. Il fût banni par ses contemporains de tous les évènements mondains et, jusqu'à ce jour, son nom est considéré comme infame. 
+
+Il arrive parfois qu'un Elfe prononce le Serment d'Elandor sans indiquer la cible de son amour, souvent car il s'agit d'une femme déjà marié ou engagée avec quelqu'un ou parce que la Dame est d'un rang supérieur à celui de l'Elfe qui prête le serment. Cet acte est considéré comme l'acte plus romantique qu'un Elfe peut accomplir. 

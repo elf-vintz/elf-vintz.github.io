@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Le Monde"
+date:   2024-10-15 23:13:30 +0200
+categories: presentation
+index: 2
+subindex: 0
+---
+Tielestel est une immense masse continentale faisant environ 8000 kilomtêtres d'est en ouest et 5500 kilomêtres du nord au sud. Le continent est bordé à l'est par un archipel s'etendant sur près de 3500 kilomêtres. Le climat de Tielestel se décline d'un climat tropical au Nord à une zone arctique tout au Sud. Le continent a été quasiment entièrement exploré par les Elfes depuis leur arrivée mais seule une petite partie est habitée. 

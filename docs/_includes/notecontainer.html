@@ -1,0 +1,8 @@
+<div class="notecontainer" >
+	{% assign notes = include.content | split: "//" %}
+	{% assign count = 0 %}
+			{% for note in notes %}
+				{% assign count = count | plus: 1 %}
+				{% include note.html content=note angle=count %}
+			{% endfor %}
+</div>

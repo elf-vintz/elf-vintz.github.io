@@ -1,0 +1,8 @@
+{% assign min = -10 %}
+{% assign max = 10 %}
+{% assign diff = max | minus: min %}
+{% assign randomNumber = include.angle | times: 8.385 | plus: 2.534 | modulo: 1  %}
+{% assign angle = randomNumber | times: diff | plus: min %}
+<div class="note" style="transform: rotate({{ angle }}deg);">
+	{{ include.content }}
+</div>

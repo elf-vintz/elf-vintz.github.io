@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    {% include header.html %}
+  </head>
+  <body>
+    {% include nav.html %}
+    <main>
+      <div class="container">
+        <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line">
+        <p class="center">[&nbsp;N<sup>o</sup>&nbsp;{{ page.index }}&nbsp;-&nbsp;{{page.subindex}}&nbsp;]
+        <span>&nbsp;{{ page.keywords }}</span></p>
+        <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line flip">
+        <h2 class="brand center" id="title">{{ page.title | upcase }}</h2>
+        {% if page.abstract %}<h5 class="center">{{ page.abstract }}</h5>{% endif %}
+        {% if page.category %}
+        <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line tag flip">
+        <p class="right tagline">{{ page.category }}</p>
+        <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line tag">
+        {% endif %}
+        <br>
+        <div class="threecol justify">
+          {{ content }}
+        </div>
+		<div>
+			<h4> == Voir aussi == </h4>
+			{% assign posts = site.posts | where_exp: "post", "post.index == page.index" | sort: 'index' | sort: 'subindex' %}
+			{% for innerpost in posts %}
+					<a href="{{ site.baseurl }}{{ innerpost.url }}" class="link" style="">
+						<h5 style="margin-bottom: 0.25rem; margin-left: 35px">-&nbsp{{innerpost.subindex}} : {{ innerpost.title }}</h5>
+					</a>
+			{% endfor %}
+		</div>
+      </div>
+    </main>
+
+  </body>
+</html>

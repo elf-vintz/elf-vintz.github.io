@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Les règles du jeu"
+date:   2024-10-15 23:13:30 +0200
+categories: presentation
+index: 3
+subindex: 0
+---
+
