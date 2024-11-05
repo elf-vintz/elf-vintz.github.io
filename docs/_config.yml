@@ -23,7 +23,7 @@ email: vintz@gmch.info
 description: Compte rendu et informations sur la fête de la Grande Convergence, sur les peuples Elfes, leurs intrigues et leurs amourettes  
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: vintz-elf.github.io
-url: https://vintz-elf.github.io"" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://vintz-elf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 tagline: Amor fata vincit
 author: Eldarion Sylmérith, Gardien du Souffle des Âges
 
