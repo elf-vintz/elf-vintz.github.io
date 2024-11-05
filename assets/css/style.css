@@ -146,6 +146,17 @@ list-style-type: none;
 padding-right: 20px;
 }
 
+.notecontainer {
+	
+	color: rgba(0,0,255,0.75);
+	font-family: 'handwriting', serif; 
+	font-size: 1.2em;
+	
+	display: flex;
+	flex-direction: column;
+	gap: 50px;
+}
+
 @media only screen
 and (min-device-width : 768px)  {
   .threecol {
@@ -161,17 +172,12 @@ and (min-device-width : 768px)  {
     width: 23%;
     margin-right:0;
   }
+  .notecontainer {
+    position: absolute; 
+	  right: 20px;
+	  top: 300px;
+    width: calc( (100vw - 1080px) /2 );
+  }
+  
 }
 
-.notecontainer {
-	position: absolute; 
-	right: 20px;
-	top: 300px;
-	color: rgba(0,0,255,0.75);
-	font-family: 'handwriting', serif; 
-	font-size: 1.2em;
-	width: calc( (100vw - 1080px) /2 );
-	display: flex;
-	flex-direction: column;
-	gap: 50px;
-}

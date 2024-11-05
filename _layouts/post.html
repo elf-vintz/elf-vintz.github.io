@@ -24,7 +24,9 @@
         <div class="threecol justify">
           {{ content }}
         </div>
-		<div>
+
+        <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line">
+		<div >
 			<h4> == Voir aussi == </h4>
 			{% assign posts = site.posts | where_exp: "post", "post.index == page.index" | sort: 'index' | sort: 'subindex' %}
 			{% for innerpost in posts %}
