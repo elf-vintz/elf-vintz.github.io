@@ -28,7 +28,7 @@ tagline: Amor fata vincit
 author: Eldarion Sylmérith, Gardien du Souffle des Âges
 
 # Build settings
-theme: marat
+remote_theme: marat
 plugins:
   - jekyll-feed
   - premonition
