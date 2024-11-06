@@ -34,3 +34,6 @@ L'ensemble des Royaumes Elfes respectent les lois édictés par Elandor dans le 
 > [...]
 
 > "En tout temps et tout lieu, il se trouvera quelqu'un pour contester l'ordre du monde et les préceptes que j'ai ici edictés. A celui là, rappelle lui que le monde connait des règles qu'il n'est pas possible de transgresser. La force de l'homme, la douceur de la femme, la sagesse des Gardiens de l'Aube Eternelle et toutes les vertus que chaque Elfe posséde selon son rang et son sexe ne peuvent être ignorées, même par le plus stupide des ignorants."
+
+
+{% include notecontainer.html content="On est bien d'accord pour dire que tout ça c'est juste une manière bien trouvée de nous dire qu'on doit obéir? " %}
