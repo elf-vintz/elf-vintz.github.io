@@ -6,7 +6,7 @@ categories: presentation
 index: 1
 subindex: 4
 ---
-![image](/assets/img/queen-with-staff-2.png){: width="100%" class="image_multiply" } *La Reine Eäralyn Daevaëlin*
+![image](/assets/img/queen-with-staff-2.png){: width="100%" class="image_multiply" :.no-lightbox } *La Reine Eäralyn Daevaëlin*
 
 Lorsque les Elfes arrivèrent en Tielestiel, les Elfes se répandirent à travers le continent. Chaque peuple choisit une région pour y installer ses enfants. Les Elfes de Lumières choisirent de rester là où ils venaient d'accoster et où venait d'être construit le temple d'Elandor. Ils fondèrent la ville de Cylandel et construisirent leur royaume à partir de là. 
 
@@ -43,6 +43,8 @@ Fidèles à la loi d'Elandor, les Elfes de la Lumière ont un respect très stri
 Les Elfes de la Lumière sont un peuple profondément spirituel, habité par la conviction que la clarté de leur dieu éclaire non seulement leur monde, mais aussi leurs âmes. Leur vie est une quête de cette lumière intérieure, une dévotion pure et harmonieuse envers Elandor, leur guide et protecteur.
 
 #### Royaume
+
+{% include image.html title="Le Cap des Lumières" src="/assets/img/cap_des_lumières.png" %}
 
 Le Royaume des Elfes de Lumière s'étend de Cylandiel à l'ouest jusqu'aux Pics d'Elandor à l'est. Il est peuplé d'environ trois cent mille d'Elfes qui rendent hommage à la Reine de tous les Elfes, Eäralyn Daevaëlin, Reine des Vents et des Étoiles, Dame de l'Arbre Eternel, Gardienne des Voies Astrales. Le Royaume comprend une dizaine de villes importantes et quelques centaines de villages. 
 
