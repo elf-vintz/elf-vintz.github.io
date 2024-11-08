@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Les Elfes de l'Ombre"
+date:   2024-10-15 23:17:30 +0200
+categories: presentation
+index: 1
+subindex: 5
+---
+
+Lors de la première convergence, alors que les autres nations Elfes choisissaient de se répartir les terres de Tielestel, les Elfes de l'Ombre demandèrent qu'on leur offrent les cavernes et l'intérieur des montagnes. Les autres Elfes se moquèrent alors d'eux. Mais neuf millénaires après ce partage, les Elfes ont appris la sagesse du choix des Elfes de l'Ombre. Les cavernes dans lesquels ils se sont installés s'étendent sous presque tout le continent et là où ils ne vont pas, le peuple des Ténèbres a creusé des galeries. Ils peuvent donc se rebdre partout sans être vus et sans que personne ne puisse le savoir.
+Malgré tout, ils n'entrent jamais en conflit avec aucune autre nation.
+
+#### Apparence physique
+
+Plus petits que la plupart des Elfes, leur peau va du gris le plus sombre à une blancheur d'albatre mais ne montre aucune trace de couleur. De la même manière, leur chevelure est généralement blanche ou noire, même si quelques très rares cas de cheveux roux ou chatains sont connus. La seule tache de couleur dans leur apparence vient de leurs yeux qui peuvent être bleus, verts, voire parfois violets ou roses. 
+
+#### Culture
+
+Les Dits du Pays Sans Soleil est un poéme de plus de cent mille vers écrit au temps de la Première Convergence par un Elfe anonyme. il se présente généralement sous la forme d'un long rouleau de parchemin. Chaque Elfe de l'Ombre est censé l'avoir lu au moins une fois avant d'arriver à l'age adulte. Il explique quelles sont les quatre vertus du Peuple de l'Ombre, les méthodes à mettre en oeuvre pour les défendre, ainsi que les raisons pour lesquelles elles sont importantes.
+Plus que tout autre chose, la culture des Elfes de l'Ombre est tourné par ces quatre vertus majeures: la Loyauté au Peuple, la Discrétion, le Courage et l'Hospitalité. De leur architecture à leur arts, tout est fait pour promouvoir l'état d'esprit liés à ces valeurs.
+
+- 1 __La Loyauté au Peuple__
+
+La première et la plus importante vertu enseignée par les Dits du Pays Sans Soleil est que le Peuple doit être protégé quoiqu'il advienne. C'est pour cela que les Elfes de l'Ombre ont construits des villes sous la terre. Leurs villes occupent un réseau de cavernes reliées des tunnels plus ou moins étroits. Cette forme d'urbanisme présente un avantage non négligeable: les villes de l'Ombre sont des véritables souricières pour quiconque voudrait les attaquer. Leur capitale, Karadann, est l'exmple même de cette vertu: une ville accueillante au premier abord mais où un ennemi aura tôt fait de se perdre et de se retrouver pris au piége. 
+
+- 2 __La Discrétion__
+
+![image](/assets/img/underworld-elf-3.png){: width="100%" class="image_multiply" :.no-lightbox } *Une jeune Elfe des Ombres dans les rues de Cylandiel*
+
+La Discrétion des Elfes de l'Ombre imprégnent leur culture de nombreuses façons. Les membres du Peuple des Ténèbres savent être partout sans que les autres ne se rendent compte de leur présence. Ils savent se déplacer au sein de Tielestel sans êtres vus et sans laisser de traces. Cette discrétion s'étend également à leur attitude en public et même la plus noble des dames Elfes de l'Ombre saura faire preuve d'humilité et de pudeur en toute circonstance. Il n'y a qu'a voir les robes sombres et les voiles que portent les femmes de ce peuple pour comprendre l'importance de la Discrétion dans leur culture. 
+
+- 3 __Le Courage__
+
+Dans leur mission de protéger le Peuple, les Elfes de l'Ombre ont parfois à affronter des menaces terrifiantes et ils savent qu'ils auront parfois à se sacrifier face à un adversaire trop puissant. Ils ne semblent pas craindre la mort et ceux qui survivent à des périls insurmontables ont l'insigne honneur de pouvoir faire apparaitre dans leurs cheveux des tresses indiquant leurs exploits. Ils savent que le monde est dangereux et que parfois le but à atteindre est plus important que leur propre vie.
+
+- 4 __L'Hospitalité__
+
+Quelque soit votre rang ou votre peuple, il suffit de demander à un Elfe de l'Ombre et il partagera son repas avec vous. Si il pense ne pas avoir assez pour satisfaire deux personnes, il choisira de se priver de repas que de laisser un étranger dans la détresse. Il vous ouvrira ses portes au milieu de la nuit et vous offrira son lit, si le besoin s'en fait sentir. Aucun Elfe ne peut prétendre avoir trouvé porte close en un lieu où vivait un Elfe de l'Ombre. 
+
+----
+
+Les Elfes de l'Ombre sont donc profondément pragmatiques et feront tout leur possible pour que leur peuple prospère dans le respect des [Lois d'Elandor]({% link _posts/2024-11-06-lesloisdelandor.markdown %}). Ceux sont des instruments fondamentaux à la bonne entente entres les peuples Elfes.
+
+#### Royaume
+
+{% include image.html title="Karadann" src="/assets/img/karadann.png" %}
+
+Le Royaume des Elfes de l'Ombre s'étend sous tout le continent. Bien qu'il soit quasiment invisible, c'est surement le plus vaste des Royaumes Elfes. Il est difficile de connaitre précisément la population de ce royaume, mais il est probable qu'il y ait environ deux cent milles Elfes vivant sous la terre. Le Roi des Elfes de l'Ombre, Naephis le Simple, a son palais à proximité de la capitale, Karadann. Quand on visite ce palais, on est surpris par la simplicité des lieux et par le peu d'apparat des tenues de chacun. Ceci est un excellent exemple de l'attachement des Elfes de l'Ombre à ses vertus.
+
+Un visiteur du Royaume de l'Ombre ferait bien de prendre un guide. En effet, ses cavernes contiennent nombre de dangers sous forme d'insectes, de créatures faites de vases acides ou de cavernes remplies de gaz mortels. Le plus simple est de suivre les caravanes marchandes qui traversent le Royaume et qui vous méneront partout où vous voudriez aller. 
