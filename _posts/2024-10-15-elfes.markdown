@@ -14,7 +14,7 @@ Neuf millénaires se sont écoulés depuis l'arrivée des Elfes et la paix règn
 ----
 
 Les Elfes se répartissent en six nations: 
-- En Cylandiel et dans les terres alentours, vivent les Elfes de Lumière, maitre de la magie et des prophéties,
+- En Cylandiel et dans les terres alentours, vivent les [Elfes de Lumière]({% link _posts/2024-10-17-lumiere.markdown %}), maitre de la magie et des prophéties,
 - Au nord, au Royaume de Blanchevoie, vivent les Elfes de Givre, rudes et féroces, dont le caractère est aussi froid que l'est leur pays,
 - Au sud, dans les forêts de Evaariad, vivent les Elfes des Bois, connus comme des poêtes, des artistes et des musiciens
 - Au fond des montagnes et sous les terres de Tielestel, vivent les Elfes des Ombres, peuple sombre et taciturne, 
@@ -31,8 +31,6 @@ Dans les terres de Tielestel, les Elfes, respectueux de la loi d'Elandor, se con
 - Les Mains de l'Arbre-Forge, serviteurs dévoués, ouvriers infatigables responsable du bien-être matériel de tous.
 
 ----
-Les Elfes ne vénèrent qu'un seul dieu: Elandor, Maitre du Ciel, Seigneur du Vent, Porteur de la Flamme Solaire. Son culte enseigne aux Elfes les valeurs morales qui permettent à chacun de connaitre sa place sur le Vrai Chemin des Etoiles. Le Grimoire des Ombres de de la Clarté, livre redigé d'après les mots d'Elandor lui-même, édicte toutes les bases des actuelles lois elfiques. Il est la source sur laquelle chaque Elfe doit se baser pour bien se comporter en sociéte.
-
-
+Les Elfes ne vénèrent qu'un seul dieu: Elandor, Maitre du Ciel, Seigneur du Vent, Porteur de la Flamme Solaire. Son culte enseigne aux Elfes les valeurs morales qui permettent à chacun de connaitre sa place sur le Vrai Chemin des Etoiles. Le [Grimoire des Ombres de de la Clarté]({% link _posts/2024-11-06-lesloisdelandor.markdown %}), livre redigé d'après les mots d'Elandor lui-même, édicte toutes les bases des actuelles lois elfiques. Il est la source sur laquelle chaque Elfe doit se baser pour bien se comporter en sociéte.
 
 {% include notecontainer.html content="La Reine n'est pas la plus charmante des Elfes. Elle joue les gentilles devant la bonne société mais si elle le pouvait elle ferait pendre tous les impudents. //On peut la comprendre vu l'inutilité de toute cette insupportable bande de parasites. // Les Castes et ce fichu bouquin sont une façon assez peu subtile d'empêcher les gens de faire trop de vagues." %}
