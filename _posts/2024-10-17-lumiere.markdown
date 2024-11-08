@@ -32,6 +32,8 @@ Chaque jour commence par le Salut d’Elandor, un rituel au cours duquel les elf
 
 - 4 __La Cité de l’Aube__
 
+{% include image.html title="Cylandiel" src="/assets/img/cylandiel.png" %}
+
 Leur capitale, Cylandiel, la Cité de l’Aube, est bâtie en pierre blanche et en cristaux d’ardium, qui capturent les premiers rayons du soleil pour les irradier dans des prismes de lumière. Cette ville est à la fois un sanctuaire dédié à Elandor et le cœur de la vie des Elfes de la Lumière. Chaque bâtiment y est orné de symboles solaires, et les places publiques accueillent des autels où chacun peut venir méditer ou prier.
 
 - 5 __La loi d'Elandor__
