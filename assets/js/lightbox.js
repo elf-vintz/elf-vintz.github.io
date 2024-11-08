@@ -78,7 +78,6 @@ function setGallery(el) {
 
 document.addEventListener("DOMContentLoaded", function() {
 
-    console.log("1111111111111111111");
     //create lightbox div in the footer
     var newdiv = document.createElement("div");
     newdiv.setAttribute('id',"lightbox");
@@ -87,12 +86,8 @@ document.addEventListener("DOMContentLoaded", function() {
     //add classes to links to be able to initiate lightboxes
     var elements = document.querySelectorAll('a');
     elements.forEach(element => {
-        console.log("222222222222222222");
-        
         var url = element.getAttribute('href');
         if(url) {
-            console.log("33333333333333333333");
-            console.log(url)
             if(url.indexOf('vimeo') !== -1 && !element.classList.contains('no-lightbox')) {
                 is_vimeolink(url,element);
             }
@@ -101,7 +96,6 @@ document.addEventListener("DOMContentLoaded", function() {
                 element.setAttribute('data-id',is_youtubelink(url));
             }
             if(is_imagelink(url) && !element.classList.contains('no-lightbox')) {
-                console.log("4444444444444444444444");
                 element.classList.add('lightbox-image');
                 var href = element.getAttribute('href');
                 var filename = href.split('/').pop();
