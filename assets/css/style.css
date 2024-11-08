@@ -181,3 +181,7 @@ and (min-device-width : 768px)  {
   
 }
 
+.image_multiply 
+{
+  mix-blend-mode: multiply;
+}

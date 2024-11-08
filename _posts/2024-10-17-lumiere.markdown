@@ -6,7 +6,7 @@ categories: presentation
 index: 1
 subindex: 4
 ---
-![image](/assets/img/queen-with-staff-2.png){: width="100%"} *La Reine Eäralyn Daevaëlin*
+![image](/assets/img/queen-with-staff-2.png){: width="100%" class="image_multiply" } *La Reine Eäralyn Daevaëlin*
 
 Lorsque les Elfes arrivèrent en Tielestiel, les Elfes se répandirent à travers le continent. Chaque peuple choisit une région pour y installer ses enfants. Les Elfes de Lumières choisirent de rester là où ils venaient d'accoster et où venait d'être construit le temple d'Elandor. Ils fondèrent la ville de Cylandel et construisirent leur royaume à partir de là. 
 
