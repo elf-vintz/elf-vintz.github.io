@@ -18,7 +18,7 @@ Les Elfes se répartissent en six nations:
 - Au nord, au Royaume de Blanchevoie, vivent les Elfes de Givre, rudes et féroces, dont le caractère est aussi froid que l'est leur pays,
 - Au sud, dans les forêts de Evaariad, vivent les Elfes des Bois, connus comme des poêtes, des artistes et des musiciens
 - Au fond des montagnes et sous les terres de Tielestel, vivent les Elfes des Ombres, peuple sombre et taciturne, 
-- Voisins des Elfes des Ombres, occupant la cime des montagnes, les Elfes du Ciel, aux ailes magnifiques et aux cités battues par les vents,
+- Voisins des Elfes des Forêts, occupant les collines à l'est des Grandes Forêts de Saetaria, les Elfes du Ciel, aux ailes magnifiques et aux cités battues par les vents,
 - Enfin les Elfes du Coeur-Marin, descendants des navigateurs qui menèrent les navires Elfes jusqu'en Tielestel. Ils vivent actuellement comme un peuple nomade sur toutes les rivières des Royauems.
 
 ----
