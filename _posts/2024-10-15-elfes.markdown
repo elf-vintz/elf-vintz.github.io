@@ -16,9 +16,9 @@ Neuf millénaires se sont écoulés depuis l'arrivée des Elfes et la paix règn
 Les Elfes se répartissent en six nations: 
 - En Cylandiel et dans les terres alentours, vivent les [Elfes de Lumière]({% link _posts/2024-10-17-lumiere.markdown %}), maitre de la magie et des prophéties,
 - Au sud, au Royaume de Blanchevoie, vivent les Elfes de Givre, rudes et féroces, dont le caractère est aussi froid que l'est leur pays,
-- Au nord, dans les forêts de Evaariad, vivent les Elfes des Bois, connus comme des poêtes, des artistes et des musiciens
+- Au nord, dans les forêts d'Evaariad, vivent les Elfes des Bois, connus comme des poêtes, des artistes et des musiciens
 - Au fond des montagnes et sous les terres de Tielestel, vivent les Elfes des Ombres, peuple sombre et taciturne, 
-- Voisins des Elfes des Forêts, occupant les collines à l'est des Grandes Forêts de Saetaria, les Elfes du Ciel, aux ailes magnifiques et aux cités battues par les vents,
+- Voisins des Elfes des Forêts, occupant les collines à l'est des Grandes Forêts d'Evaariad, les Elfes du Ciel, aux ailes magnifiques et aux cités battues par les vents,
 - Enfin les Elfes du Coeur-Marin, descendants des navigateurs qui menèrent les navires Elfes jusqu'en Tielestel. Ils vivent actuellement comme un peuple nomade sur toutes les rivières des Royauems.
 
 ----
