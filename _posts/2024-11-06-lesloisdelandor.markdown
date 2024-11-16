@@ -36,4 +36,7 @@ L'ensemble des Royaumes Elfes respectent les lois édictés par Elandor dans le 
 > "En tout temps et tout lieu, il se trouvera quelqu'un pour contester l'ordre du monde et les préceptes que j'ai ici edictés. A celui là, rappelle lui que le monde connait des règles qu'il n'est pas possible de transgresser. La force de l'homme, la douceur de la femme, la sagesse des Gardiens de l'Aube Eternelle et toutes les vertus que chaque Elfe posséde selon son rang et son sexe ne peuvent être ignorées, même par le plus stupide des ignorants."
 
 
+> "Les Elfes, enfants bénis de la Terre, sont liés par un pacte sacré à leur nature originelle. Ainsi, il est un devoir pour tout Elfe, fidèle à l’ordre divin établi, de s’abstenir d’user de sorcelleries qui défieraient la gravité ou braveraient les vastes étendues des océans. Car un Elfe, dont le cœur est illuminé par mes préceptes sacrés, ne saurait tolérer que son frère s’égare dans des pratiques occultes qui profaneraient les lois immuables de la création terrestre."
+
+
 {% include notecontainer.html content="On est bien d'accord pour dire que tout ça c'est juste une manière bien trouvée de nous dire qu'on doit obéir? " %}
