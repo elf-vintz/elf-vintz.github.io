@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Les Elfes du Ciel"
+date:   2024-10-15 23:17:30 +0200
+categories: presentation
+index: 1
+subindex: 6
+---
+
+Du fait de leur particularité, les Elfes des Cieux voulurent s'installer là où le vent faciliterait leur activité préférée: le vol. Ils s'installèrent donc dans un pays de collines au nord du continent, non loin des grandes Forêts d'Evaariad. La région est en permanence battue par les vents. Ils fondèrent des cités de petites maisons en bois ouvertes à tous les vents.  
+
+#### Apparence physique
+
+{% include image.html title="Le prince Phenelyl Saliel" src="/assets/img/Ciel-4.png" %}
+
+Leur trait le plus saillant est les deux paires d'ailes qui ornent leur dos. Leurs ailes se déploient en arc irisé, délicates et transluscentes, semblables à des ailes de libellules faite d'incroyables vitraux.  Les Elfes du Ciel sont donc les seuls des Elfes qui sachent voler sans faire usage de magie. Leur peau va de très claire à assez foncée. La majorité d'entre eux a les yeux bleus mais certains ont les yeux verts, brun ou dorés. Leurs  cheveux sont blonds, bruns, noirs roux et homme comme femme les portent généralement longs. Certains membres de la noblesse portent des turbans pour contraindre leur très longs cheveux.
+
+#### Culture
+
+Les Elfes du Ciel vivent dans petits villages construits dans les hauteurs des collines de leur pays. Leur nature d'êtres volants influence tous les éléments de leur culture: de leurs maisons sur pilotis à leurs danses aériennes, en passant par leur chants et leur artisanat, légèrs comme le vent qu'ils adorent, tout est une ode à la liberté.
+
+- 1 __La transgression__
+
+Comme Elandor l'a proclamé, aucun Elfe n'est censé faire usage de magie pour voler dans le ciel. Pourtant, les Elfes des Cieux, par leur nature d'enfants de l'air, peuvent s'affranchir de cette obligation et on le pouvoir de voler. Pourtant, certains exégètes tendent à supporter l'interprétation qui dit qu'aucun Elfe ne devrait voler par quelque moyen que ce soit. 
+
+Il y a donc une partie de la population pour qui les Elfes des Cieux sont à la limite de l'hérésie et qu'ils devraient être forcés à abandonner leurs pratiques impies. Bien sûr, la bonne société Elfe a bien compris qu'il s'agit d'une vision quelque peu extrême et qu'il ne peut y avoir un interdiction formelle sur l'usage d'une capacité naturelle.
+
+2 - __Les Messagers__ 
+
+Si les Elfes des Ombres disposent d'un réseau souterrain extrèmement efficace pour se déplacer à travers le continent, il faut constater que si l'on veut qu'un message ou un présent soit transporté aussi rapidement que possible la solution la plus efficace est de faire appel aux Messagers. Cette guilde d'Elfe du Ciel se charge de transporter tout ce qui doit arriver en express à l'autre du continent. Grace à leurs ailes, à des relais situés sur tout le territoire et à une organisation quasi militaire, les Messagers se sont forgés une réputation d'efficacité quasi-parfaite.
+
+3 - __L'élévage des Talwynn__
+
+Une des pratiques surprenantes des Elfes du Ciel est leur propension à voir leur maisons envahies de ces petites créatures volantes appelées Thalwyns. Il s'agit de petits oiseaux ou de gros insectes ayant peu près la taille d'une paume de main. Ces petites créatures volent grace à des ailes diaphanes rappelant celles des papillons. Elles ne sont vues que dans les collines qui abritent les maisons des Elfes du Ciel. 
+
+----
+
+La société des Elfes des Cieux est entièrement tournée vers leur capacité à voler. Leur architecture, leur éducation et même leur tenue vestimentaire sont influencée par ce phénomène. Par exemple, il n'est pas rare de rencontrer des Elfes qui se promènent partout les pieds nus, particulièrement si ces Elfes font partie de la noblesse. 
+
+#### Royaume
+
+{% include image.html title="Ambanonorië" src="/assets/img/ambanonorië.png" %}
+
+Occupant les collines à l'est des Grandes Forêts d'Evaariad, le royaume des Elfes des Cieux est un ensemble de petites villes s'étalant sur toutes les zones hautes et sous le vent. La Capitale du Royaume, Brise du Soleil, a été fondée autour du Palais Royal de la dysnatie des Saliel. Les hautes tours du Palais Royal sont les seules constructions de pierre de la ville. Le visiteur qui arrive en ville verra à toute heure du jour et de la nuit des Elfes s'envoler pour quelque vol de loisir ou pour des destinations lointaines.
+
+A l'ouest de Brise du Soleil, il est possible de se rendre à la Librairie Hantée où vous pourrez acheter des parchemins et des livres dans une ambiance mystique. On dit qu'à la nuit tombée, le lieu abrite des spectres des premiers Elfes. 
