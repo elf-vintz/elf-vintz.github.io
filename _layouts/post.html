@@ -30,9 +30,11 @@
 			<h4> == Voir aussi == </h4>
 			{% assign posts = site.posts | where_exp: "post", "post.index == page.index" | sort: 'index' | sort: 'subindex' %}
 			{% for innerpost in posts %}
+        {% if innerpost.subindex >= 0 %}
 					<a href="{{ site.baseurl }}{{ innerpost.url }}" class="link" style="">
 						<h5 style="margin-bottom: 0.25rem; margin-left: 35px">-&nbsp{{innerpost.subindex}} : {{ innerpost.title }}</h5>
 					</a>
+        {% endif %}
 			{% endfor %}
 		</div>
       </div>
