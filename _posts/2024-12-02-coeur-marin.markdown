@@ -34,6 +34,6 @@ Une controverse existe entre les Elfes de la Lumière et les Elfes du Coeur-Mari
 #### Royaume
 
 
-Le "Royaume" des Elfes du Coeur à travers tout Tielestel. Il est rare que plus d'une dizaine de navires soient présents au même endroit à un instant donné en dehors de grands évènements qui se produisent environ une fois tous les dix ans. Il est assez courant qu'une flotte rende visite à une ville d'un autre peuple et cela provoque des festivités et des foires où s'échangent toute sorte de marchandises. 
+Le "Royaume" des Elfes du Coeur-Marin à travers tout Tielestel. Il est rare que plus d'une dizaine de navires soient présents au même endroit à un instant donné en dehors de grands évènements qui se produisent environ une fois tous les dix ans. Il est assez courant qu'une flotte rende visite à une ville d'un autre peuple et cela provoque des festivités et des foires où s'échangent toute sorte de marchandises. 
 
 Le navire le plus connu du "Royaume" des Elfes du Coeur-Marin est l'Etreinte des Vagues, le navire "capitale" dont le Capitaine est le Roi Elikaë Samolië dit l'Aigle des Récifs. Ce trois mats d'un bois blanc comme de l'ivoire est le seul des navires ayant échappé au sacrifice pour la construction du Temple d'Elandor. Il est facilement reconnaissable à sa figure de proue représentant une femme armée d'une lance. 
