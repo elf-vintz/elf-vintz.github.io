@@ -418,4 +418,5 @@ table {
 td,
 th {
   padding: 0;
+  padding-right: 10px;
 }
