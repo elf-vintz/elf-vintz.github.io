@@ -32,8 +32,8 @@ Chaque ville et chaque village du Royaume Sylvain abrite une ou plusieurs Acadé
 
 Les trois Académies les plus célèbres sont :
 
-- l'Académie de Blanc-Mesnil ou la Cantatrix Celebia Merianael vous enseignera le chant et l'opéra. 
-- l'Académie Poétique de Maitre Flaiel est la seule Académie itinérante. On y apprend l'art de la Danse, de la Jonglerie et de la Déclamation.  
+- l'Académie de Blanc-Mesnil où la Cantatrix Celebia Merianael vous enseignera le chant et l'opéra. 
+- l'Académie Poétique de Maitre Flaiel qui est la seule Académie itinérante. On y apprend l'art de la Danse, de la Jonglerie et de la Déclamation.  
 - l'Académie de Musique de Fond-Des-Bois, dirigée par Ezariel. Vous y apprendrez l'utilisation de toute sorte d'instruments de musique.
 
 - 2 __Les Cantatrix__
