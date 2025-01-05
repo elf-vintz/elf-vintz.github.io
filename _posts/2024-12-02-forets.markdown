@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Les Elfes des Bois"
+date:   2024-12-02 23:00:25 +0200
+categories: presentation
+index: 1
+subindex: 8
+---
+
+ Les Elfes des Forêts ont fondé des cités au milieu des arbres des immenses forêts de Tielestel. De tous les peuples elfes, ceux sont eux qui attirent le plus de visiteurs si l'on excepte bien sûr la période de la Grande Convergence. Tous les peuples leur envoient leurs enfants pour profiter de l'enseignement artistique qu'ils assurent au sein de leurs nombreuses académies.
+
+
+#### Apparence physique
+
+![image](/assets/img/sylvian2.png){: width="100%" class="image_multiply" :.no-lightbox} *La Cantatrix Celebia Merianael*
+
+Les cheveux généralement bruns, noir ou roux, les yeux le plus souvent verts, plus rarement bleus ou bruns, de taille moyenne pour un elfe, les Elfes des forêts seraient presque les plus banals des Elfes si ce n'était pour leur peau toujours au moins légérement verte. Leur démarche élégante donne l'impression qu'ils sont en permanence en train de danser. 
+
+Il faut noter qu'au coeur de ce peuple existent des individus qui sortent du lot. En effet, il arrive que naisse au sein d'une famille d'Elfe des Forêts un enfant au traits étranges et dont le crane est orné de branches et de feuilles plutot que de cheveux. Ces Elfes sont considérés comme des miracles et s'avèrent presque toujours être des prodiges dans les domaines artistiques. Les Elfes des Forêts nomment ces êtres les Parfaits.
+
+On peut s'étonner que les Elfes des Forêts se montrent aussi tolérants envers des êtres aussi différents mais il faut se rappeler que ce peuple met l'art au dessus de toute chose. 
+
+#### Culture
+
+L'art est le moteur et l'ame du peuple des Elfes des Forêts. Chaque Elfe sylvain se doit d'avoir des notions dans un ou plusieurs arts. Les arts les plus appréciés sont les arts de la scène, tels que le chant, la danse ou la déclamation. Puis viennent les arts picturaux et plastiques. Enfin tout en bas de l'échelle se trouvent l'écriture de roman ou de pièce de théatre. 
+
+Cet intérêt pour l'art imprègne toute la société sylvanienne et a en façonné de nombreux pans.
+
+- 1 __Les Académies des Arts__
+
+Chaque ville et chaque village du Royaume Sylvain abrite une ou plusieurs Académie des Arts. Ce sont des lieux où tous les Elfes quelque soit leur peuple peuvent apprendre une forme d'art sous le mentorat d'un maitre reconnu. Avant de fonder une académie, un artiste doit obtenir l'accord du conseil des chants, ce qui garantit le sérieux et le talent du maitre. Certaines rumeurs prétendent que les maitres les plus talentueux peuvent enseigner une forme de magie lié à la pratique des arts.
+
+Les trois Académies les plus célèbres sont :
+
+- l'Académie de Blanc-Mesnil ou la Cantatrix Celebia Merianael vous enseignera le chant et l'opéra. 
+- l'Académie Poétique de Maitre Flaiel est la seule Académie itinérante. On y apprend l'art de la Danse, de la Jonglerie et de la Déclamation.  
+- l'Académie de Musique de Fond-Des-Bois, dirigée par Ezariel. Vous y apprendrez l'utilisation de toute sorte d'instruments de musique.
+
+- 2 __Les Cantatrix__
+
+Les artistes les plus révèrés du Royaume sont les Cantatrix. Chaque Cantatrix est un Parfait choisi dès son plus jeune age pour son don pour le chant. Ils sont connus pour être les plus talentueux chanteurs de tout le continent. Leurs chants peuvent bouleverser les foules, faire rire ou pleurer, provoquer la passion ou briser les coeurs. Certains prétendent que leur voix est une forme de magie qu'ils sont les seuls à posséder. 
+
+- 3 __Le chant des Arbres__
+
+Chaque printemps, les Forêts où vivent les Elfes des Forêts connaissent un phénomène inexpliqué et particulièrement étrange. Sans que l'on sache d'où il vient ce qu'il veut dire, un chant se fait entendre pendant plusieurs jours de suite. Il semble être l'écho de milliers de voix et peut être entendu où que l'on se trouve dans les bois et à n'importe quelle heure du jour et de la nuit. Les Elfes Sylvains semblent énormément apprécier ce chant mais il a tendance à mettre mal à l'aise les visiteurs. 
+
+- 4 __Les portraits vivants__
+
+Un visiteur pourra rencontrer dans les maisons des Elfes des Forêts des tableaux et sculptures qui semblent vous suivre du regard et vous observer lorsque vous passez devant eux. Ces Portraits Vivants sont l'oeuvre d'artistes d'exception et on dit qu'ils conservent en eux une partie de l'essence de ceux qu'ils représentent. Il n'est pas rare pour une famille d'une autre nation de vouloir acquérir une de ces oeuvres mais le temps d'attente pour l'obtention d'une telle pièce peut être de plusieurs décénnies.
+
+
+#### Royaume
+
+{% include image.html title="Evaariad" src="/assets/img/evaariad.png" %}
+
+ Les grandes villes du Royaume se concentrent dans la forêt d'Evaariad et presque 90% de la population y vit. Pourtant, bien qu'ils n'y soient pas systématiquement présents, toutes les forêts du continent sont techniquement considérées comme faisant partie de leur Royaume. Au cours des siècles, cette prétention à posséder toutes les forêts a parfois été remise en cause par les différents peuples notamment par les Elfes de la Lumière et les Elfes du Givre. Les deux confrontations ont connus des résultats fort différents: dans le premier cas, les Elfes de la Lumière ont réussi à garder par la force la main-mise sur le Bois de Rêve. Dans le second cas, les deux peuples sont arrivés à un accord partageant le pouvoir sur les forêts de Front D'Hiver.
