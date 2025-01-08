@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Les Elfes du Givre"
+date:   2024-10-15 23:17:30 +0200
+categories: presentation
+index: 1
+subindex: 9
+---
+
+Vivant dans un pays aussi féroce qu'eux, les Elfes du Givre sont des maîtres de la survie et de la résilience. Leur existence est un ballet de grâce et de pragmatisme, sculpté par des vents glacés et la dureté d'un hiver quasi-permanent. Leur sens de l'honneur légendaire fait d'eux des êtres droits et justes mais parfois obsessionnels et trahir un Elfe du Givre vous expose à une vendetta impossible à apaiser. 
+
+#### Apparence physique
+
+Dotés d'une peau pâle presque translucide et de cheveux argentés ou d'un blanc immaculé, ils se fondent parfaitement dans leur environnement enneigé. Leur regard perçant, souvent de nuances cristallines ou polaires, semble capable de scruter l'âme. Ils sont grands et élancés et font preuve d'une grace quasi-surnaturelle. Ils portent souvent des peintures sur le visage comme d'autres portent des bijoux. 
+
+#### Culture
+
+Pour survivre à la dureté de l'hiver et à toutes les bêtes sauvages, les Elfes du Givre ont développé une culture basée sur la rudesse et la force où chaque individu est à la fois un guerrier et un artisan de sa propre survie. Leur quotidien est rythmé par des entraînements rigoureux, des chasses périlleuses, et des rituels qui célèbrent leur capacité à dominer un environnement implacable. 
+
+Leur art reflète cette même austérité : des sculptures de glace éphémères mais sublimes, des armures finement ouvragées qui allient beauté et fonctionnalité, et des chants anciens résonnant comme des cris portés par le vent.
+
+- 1 __Les Sans Visage__
+
+Dans un cadre aussi hostile, la survie du groupe est considérée comme au dessus de tout. Certains Elfes du Givre, obsédés par leur Honneur et par le service à la tribu, choisissent de se soumettre à un étrange rituel qui leur apporte de la puissance en échange de leur propre personnalité. Ils se mettent à porter un masque de metal tracé de symboles rituels. Un nouveau nom leur est donné et ils coupent leurs liens familiaux et amicaux. Ce sacrifice leur accorde une plus grande force physique, des réflexes plus acerés et une plus grande resistance.
+
+2 - __Les Serres-de-Cristal__ 
+
+{% include image.html  src="/assets/img/bird.png" %}
+
+Les Elfes du Givres ont domestiqué des grands oiseaux coureurs qui leur servent de montures quand ils doivent se déplacer sur de longues distances. Ces oiseaux, les Serres-de-Cristal, ne volent pas mais sont des êtres terriblement agressifs. Dans leur milieu naturel, ils chassent en troupeau de grands herbivores et sont craints même par les autres prédateurs. L'entrainement de ces montures comprend un entrainement au combat qui les rend encore plus dangereux. 
+
+3 - __Les Soldats de Glace__
+
+Pour un peuple aussi martial, il est surprenant de savoir que les Elfes du Givre sont responsables de la plus grande oeuvre d'art de tout Tielestel. Au coeur des montagnes enneigées se trouve une armée composée de plusieurs centaines de statues de glace représentant des Elfes du Givre en arme. Chaque année, des artistes vont rajouter quelques statues supplémentaires. 
+
+4 - __Rituel de la Première Tempête__
+
+Lorsqu’un Elfe du Givre atteint l’âge adulte, si il veut rejoindre les Servants du Métal, il doit passer une nuit entière dans une tempête glacée sans équipement, ne comptant que sur sa magie et sa force intérieure pour survivre. 
+
+----
+
+Les Elfes du Givre sont surement les Elfes les plus indomptés et les plus farouches. Leur environnement est si difficile et hostile qu'on peut se demander pourquoi ils se sont installer à cet endroit. On peut se dmander si c'est ce milieu qui a forgé leur caractère ou si c'est pour satisfaire leur personnalité brutale qu'ils se sont installé là.
+
+
+
+#### Royaume
+
+{% include image.html title="BlancheVoie" src="/assets/img/blanchevoie.png" %}
+
+Situé au Sud du continent, le Royaume de Blanchevoie est un pays de plaines enneigées et de montagnes gelées. 
+Pour faciliter les voyages dans un Royaume aussi périlleux, les Elfes du Givre ont construit un résau de routes dallées. Ces routes sont imprégnées de magie qui garantie que le gel et la neige ne s'y installe pas.
+Malgré cela, leur capitale, Voiledhiver, située tout en haut du plus haut pic du Royaume, est difficilement accessible et pour les étrangers, l'accès à cette ville est quasiment impossible. 
