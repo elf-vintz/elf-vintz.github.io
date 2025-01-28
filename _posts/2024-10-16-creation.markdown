@@ -7,3 +7,120 @@ index: 3
 subindex: 1
 ---
 
+Dans le jeu de rôle Les Graces et les Couronnes, les joueuses incarnent des membres de la noblesse elfe qui sont confrontés à des intrigues amoureuses et qui luttent dans une société aux normes sociales extrémement strictes. Chaque personnage est décrit par un certain nombre de caractéristiques, certaines chiffrées et d'autre purement déscriptives. Ces caractéristiques  entrent dans les catégories suivantes: 
+
+- **Compétences Pragmatiques**
+
+Cette catégorie décrit à quel point les personnages sont doués dans les domaines pratiqués principalement par les gens du peuple.
+Il faut noter que la plupart des usages de ces compétences subira un malus pour les membres de la noblesse (donc pour les personnages des joueuses).
+
+- **Culture** 
+
+Cette catégorie comprend tous les talents dans lesquels un Noble Elfe doit exceller. 
+
+- **Magie**
+
+Il s'agit d'une list des pouvoirs magiques que les Elfes peuvent maitriser. 
+Ces pouvoirs magiques sont alimentés par des __Points de Magie__ que l'Elfe va dépenser à chaque usage important d'un pouvoir et qui se régénèrent lorsque le personnage se repose.
+
+- **Santé**
+
+C'est une jauge qui  représente l'état de forme physique et moral de l'Elfe. Chaque cran peut représenter une blessure physique mais aussi une défaite morale qui le pousserait au désespoir. Lorsqu'un Elfe atteint le dernier stade de cette jauge, il devient incapable d'agir par lui même, jusqu'à ce que des soins (physiques ou psychiques lui soient apportés)
+
+- **Historiques**
+
+Cela décrit des avantages uniques qui ne correspondent à aucune autre catégorie. Par exemple, un objet magique, un titre, un bien immobilier d'importance.
+
+- **Objectif avoué**
+
+C'est un but que le personnage semble vouloir entreprendre et qui est connu de tous. Il peut s'agir d'un véritable objectif ou simplement de ce que le personnage veut montrer au monde. Il peut s'agir, par exemple, de trouver un époux de son rang, de récupérer son héritage, de restaurer son honneur bafoué. 
+
+- **Désir enfoui** 
+
+Il s'agit du véritable moteur du personnage, un désir qu'il n'avouera qu'à ses plus prôches amis et dont il n'est parfois même pas conscient lui-même. Il peut s'agir de trouver son grand Amour, se venger de quelqu'un ou être reconnu par une personne d'importance en particulier. 
+
+- **Secret**
+
+Chaque personnage posséde un secret qu'il désire cacher plus que tout et qui pourrait nuire à sa réputation. Il peut s'agir, par exemple, d'un soudain revers de fortune de sa famille qui le laisse dépourvu ou du fait que le personnage est un adorateur d'un culte ancien et réprouvé ou encore d'un amour secret pour quelqu'un d'innaccessible.
+
+- **Relations**
+
+Ce sont les principaux liens sociaux du personnage. Il peut s'agir de simples connaissances, de véritables alliés ou de gens avec qui il a une querelle en cours.Il est possible qu'au cours de l'aventure qu'une relation se modifie et change de catégorie.
+
+- **Réputation**
+
+La société Elfe juge facilement ceux qui la compose et quelqu'un qui s'oppose aux normes de la-dite société pourrait se voir ostraciser. De la même manière, un parangon de vertu se verra porter aux nues par ses congénères. La Jauge de Réputation représente ce jugement de la société.
+
+----
+Pour créer son personnage, la joueuse va devoir remplir sa fiche de personnage et assigner des valeurs à chacune des catégories pré-citées. Pour se faire, il va devoir suivre les instructions suivantes:
+
+Dans un premier temps, il va falloir définir un concept pour son personnage. Sera-t-il un Noble seigneur Elfe de la Lumière cherchant à rencontrer sa bien-aimée, une fille d'Officier issu des Elfes de l'Ombre et devant trouver un époux pour compenser les pertes financières de son père ou un jeune éclesiastique qui chercherait à conquérir une dame tout en cachant un passé trouble? Il faut se rappeler que dans le cadre de notre partie, le personnage est nécessairement issu de la haute société Elfe. 
+
+Une fois le concept défini, la joueuse devra remplir les informations suivantes: 
+- __Son nom__
+- __Son peuple__
+
+Il doit choisir parmi les peuples présentés dans la section [Les Elfes]({% link _posts/2024-10-15-elfes.markdown %}).
+
+- __Son age.__
+
+Un Elfe de 20 ans est considéré comme un adolescent à peine capable de prendre ses décisions par lui-même et peut vivre jusqu'à environ 400 ans. Il est fortement déconseillé de faire un personnage de moins de 20 ans et de plus de 350 ans. 
+
+- __Sa caste familiale.__ 
+
+Cela représente les différentes fonctions qu'occupent les membres dirigeants de la famille du personnage. Dans le cadre de ce jeu, les seules castes dont peuvent faire partir les personnages des joueuses sont :
+
+-Gardien de l'Aube Eternelle, la plus haute noblesse, les dirigeants des peuples Elfes
+    
+-Porteur de Parole, l'élite religieuse. Ils sont les représentants de l'église d'Elandor, la seule religion officielle du Royaume des Elfes.
+    
+-Servant du Métal, les militaires et policiers Elfes. Si cette caste est choisie, il faudra cocher les cases se trouvant devant athlétisme et endurance.
+
+- __Son rang.__ 
+
+Il s'agit d'un chiffre de 2 à 5 où 2 représente un membre d'une famille noble mineure et 5 répresente un membre de famille royale. la joueuse peut mettre la valeur qu'il veut (entre 2 et 5) en fonction du personnage qu'il veut jouer. 
+
+- __Son apparence.__ 
+
+C'est un descripteur simple (quelques mots) permettant de connaitre l'impression que l'Elfe fera la première fois qu'on le rencontre. Il s'agit du trait saillant du personnage tel que altier, débonnaire, sympathique ou taciturne. Il est possible de faire une description plus complète du personnage ailleurs. 
+
+- __Son tempérament.__ 
+
+Comme l'apparence, c'est un descripteur de quelques mots mais cette fois-ci concernant son attitude, sa personnalité. On pourra utiliser des termes comme agressif, nerveux ou joyeux. 
+- __Sa réputation.__ 
+
+C'est une information qui sera rempli plus tard au cours du jeu et qui définit comment le personnage est connu par la société Elfe. 
+
+- __Sa fortune.__ 
+
+Comme le rang, c'est une valeur numérique variant de 2 à 5. 2 correspond à un noble possèdant tout juste de quoi survivre et 5 correspond à un noble possédant une fortune colossale. Comme le rang, la joueuse peut y mettre la valeur qu'elle désire (entre 2 et 5)
+
+
+Lorsque ces informations ont été remplies, la joueuse dispose d'une réserve de 40 points à utiliser dans les catégories suivantes: 
+
+- __Historiques__
+- __Compétences Pragmatiques__
+- __Magie et Point de Magie__
+- __Culture__
+
+Chaque point dépensé dans une Compétences Pragmatique, une Magie ou une Culture fait monter le niveau de ce trait d'un niveau. Un trait à niveau 1 correspond à quelqu'un formé à ce trait, tandis qu'un trait à 5 points correspond à un niveau d'excellence dans le domaine. Par exemple, avoir 1 en escrime fait de l'Elfe un bon escrimeur et avoir 5 représente quelqu'un capable de remporter l'immense majorité des combats, l'équivalent d'un champion olympique. A la création, il n'est pas possible de mettre plus de 5 points dans un trait. 
+
+Les historiques sont un peu différents. Chaque historique est défini par un coût lié à son utilité. Une liste d'exemples peut être trouvée [ici]({% link _posts/2024-11-13-historiques.markdown %}).
+
+- __Relations__
+
+Une fois ces points dépensés, la joueuse doit définir ses relations. Il s'agit de lien sociaux que le personnage a établi avec une personne. Cela permet également de définir quelques personnages secondaires qui interviendront dans la partie. 
+
+Une relation peut avoir trois "valeurs" indépendantes:
+- Simple relation: la joueuse obtient un bonus de +1 sur tous les jets qui concernent cette relation.
+- Alliance: la joueuse obtient un bonus de +3 lorsqu'elle fait un jet afin d'effectuer une action bienveillante envers cette personne. Ce bonus peut également être utilisé quand un personnage réalise une action avec l'aide de son allié.
+- Querelle: la joueuse obtient également un bonus de +3 mais uniquement pour les actions néfastes envers cette personne
+
+La joueuse doit choisir 6 relations: 3 relations simples, deux alliance et une querelle. Une relation peut, par exemple, être une vieille tante qui apprécie le personnage, un serviteur qui l'assiste autant qu'il peut ou une rivale qui veut ruiner votre vie. 
+
+
+
+
+
+
+

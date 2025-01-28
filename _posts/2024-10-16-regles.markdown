@@ -7,3 +7,48 @@ index: 3
 subindex: 0
 ---
 
+#### Accomplir une action 
+
+Dans la plupart des situations, lorsqu'une joueuse veut que son personnage accomplisse une action, elle n'a qu'à l'indiquer et le meneur de jeu lui en indiquera les conséquences. Il peut arriver un moment où l'issue d'une action est incertaine. Il faut alors faire appel à une forme d'aléatoire. Pour ce faire, la joueuse doit lancer un dé à 10 face (D10) et ajouter au résultat le niveau d'une compétence liée à l'action que le personnage tente d'accomplir. Il peut également ajouter divers bonus lié à ses historiques et ses relations. 
+
+Il compare alors ce résultat à la difficulté fournie par le meneur de jeu. Si le résultat est supérieur, l'action est réussie. Sinon elle échoue. Si le jet dépasse le niveau de difficulté de plus de 5 points, l'action est particulièrement réussie. De la même manière si il échoue avec plus de 5 points de différence, il s'agit d'un échec majeur. 
+Le meneur du jeu définira les effets exacts de l'action en fonction de la marge de réussite. 
+
+Dans la plupart des cas, une joueuse ne peut tenter qu'un seul lancer de dés pour une même action. Le personnage y a passé tout le temps qu'il pouvait et a épuisé toutes les possibilités de réussite. La joueuse ne pourra effectuer un nouveau jet que si les circonstances extérieures changent. 
+
+Les niveaux de difficulté des jets sont définis par le tableau suivant : 
+
+| Niveau          | Résultat attendu | 
+| --------------- | ---------------- |
+| Très facile     | 2                |
+| Facile          | 4                |
+| Moyen           | 6                | 
+| Difficile       | 8                |
+| Très difficile  | 12               |
+| Impossible      | 20               |
+
+
+#### La Santé
+
+Durant ses aventures, un aventurier peut se blesser ou tomber malade. Après un jet de compétence raté, le meneur de jeu peut lui imposer une baisse du niveau de santé. La joueuse coche alors la première case vide de a sa barre de santé. Si le jet est raté de plus de 5 points, le meneur de jeu peut lui demander de cocher une deuxième case de santé. Le personnage subit alors un malus à tous ses jets égal au niveau de santé le plus élevé. 
+
+Lorsque la joueuse coche la case "Neutralisé", son personnage est mis hors jeu le temps de se soigner. Il ne peut plus rien faire jusqu'à la guérison. 
+
+Pour se soigner, le personnage a deux possibilités. La première est de patienter et profiter de la guérison naturelle. Cela peut prendre plus ou moins longtemps selon la source de sa baisse de santé et tel qu'indiqué par le meneur de jeu. Il devra passer du temps loin de toute agitation pour pouvoir récupérer. L'autre possibilité est d'utiliser la magie de Guérison. Pour cela, le lanceur de sort doit réussir un jet de Magie de Guérison de difficulté 10 avec un malus égal au niveau de santé actuel de la cible. Si un personnage souhaite se soigner lui même, son jet de magie subit un malus égal à deux fois son niveau de santé.
+
+#### La Réputation
+
+A chaque fin de séance, en fonction des actes de chaque personnage, le meneur de jeu évalue ses actions au cours de la séance et fait évoluer sa réputation. Si le personnage s'est comporté de façon particulièrement honorable, sa joueuse fait avancer sa jauge de réputation d'un cran dans le sens positif et si il s'est comporté de façon ignoble, la progression se fait dans le sens négatif.
+Il faut se rappeler que cette évolution de réputation est liée à la perception que la bonne société elfique a des actes du personnage. Par exemple, si un personnage refuse un combat parce qu'il sait que son adversaire est bien plus faible que lui mais que le reste de la société elfe pense qu'il fuit le combat, il perdra des niveaux en réputation.
+
+Le niveau de réputation influence l'opinion des autres et s'ajoute à tous les jets d'interaction sociale du personnage.
+
+Lorsque le niveau de réputation se trouve à l'une des extrémité de la jauge et doit évoluer à nouveau dans le même sens, la jauge est remise à zéro et la joueuse réfléchit avec l'ensemelbe de la table pour définir un titre en rapport avec les actions du personnage. Le titre doit correspondre à l'ensemble des actions qui ont mené à l'augmentation de sa réputation. En dernier recours, c'est toujours la joueuse du personnage concerné qui a le dernier mot. 
+
+Un titre de réputation a deux effets. 
+
+En premier lieu, lorsque le personnage accomplit un acte en accord avec un titre qu'il possède actuellement, il peut ajouter un bonus de +2 à son jet. Le titre peut servir non seulement pour les actions sociales mais aussi pour les actions physiques à condition que son titre ait un rapport avec l'action accomplie. Par exemple, imaginons que Faestiel est connu sous le titre du Lache désire fuir un affrontement, il pourra ajouter un bonus de 2 à son jet d'Athlétisme. Il pourra également obtenir ce même bonus pour convaincre ses alliés de refuser un combat. 
+
+En second lieu, une joueuse peut décider de "bruler" un titre de réputation, au moment d'accomplir une action. Elle supprime alors le titre de sa fiche. En contrepartie, on considère que l'action est automatiquement réussie et la joueuse peut décrire comment elle veut que les évènements se passent. Bien sûr, suite à cela, le titre ne pourra plus jamais être utilisé pour obtenir un bonus. 
+
+
