@@ -52,3 +52,7 @@ En premier lieu, lorsque le personnage accomplit un acte en accord avec un titre
 En second lieu, une joueuse peut décider de "bruler" un titre de réputation, au moment d'accomplir une action. Elle supprime alors le titre de sa fiche. En contrepartie, on considère que l'action est automatiquement réussie et la joueuse peut décrire comment elle veut que les évènements se passent. Bien sûr, suite à cela, le titre ne pourra plus jamais être utilisé pour obtenir un bonus. 
 
 
+#### La Magie
+
+L'usage de la magie se fait exactement de la même manière que n'importe quelle action: la joueuse énonce ce qu'elle veut que son personnage veut effectuer avec son sortilège, le maitre du jeu lui indique la difficulté et si le jet réussit, le sort fonctionne. Le lancement d'un sort prend toujours au moins plusieurs minutes avec moult déclamation, effets visuels. Il est toujours évident qu'une personne est en train de faire usage de magie. Si une joueuse veut que son personnage lance un sort de façon plus rapide et plus discréte, elle doit dépenser un point de magie. C'est toujours le cas quand elle voudra lancer un sort en combat et mais ça peut l'être aussi si elle est pressée ou qu'elle veut lancer un sort de façon discréte.
+Les points de magie se récupèrent à raison de 1 point par 4h de méditation.   
