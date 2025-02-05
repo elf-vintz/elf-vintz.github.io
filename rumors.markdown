@@ -12,4 +12,4 @@ permalink: /rumors/
 - Les Elfes du Givre sont en grave déclin démographique.
 - L'artiste Elfe des Forêts connu pour avoir sculpté le nouvel appui-tête du trone des Elfes de la Lumière serait en ville pour la Grande Convergence.
 - Artamis a été envoyé à la Grande Convergence pour s'occuper de sa jeune cousine Ardamir en représaille d'avoir battu ses deux cousins lors d'un concours de tir à l'arc.
-- Les parents de Shalimar Aerlinn sont tellement désespérés face au refus de leur fille de prendre un époux qu'ils sont venus à la Grande Convergence pour adopter un nouvel héritier. 
+- Les parents de Shalimar Aerlinn sont tellement désespérés face au refus de leur fille de prendre un époux qu'ils sont venus à la Grande Convergence pour adopter un nouvel héritier. :arrow_upper_right:
