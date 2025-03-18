@@ -15,7 +15,7 @@ permalink: /rumors/
 - La froide et rigide Artanis du peuple du Givre aurait accepté les avances d'un membre du peuple des Forêts.
 - Le Seigneur Syldithas aurait profité du banquet de l'Appel des Anciens pour courir le jupon dans les jardins du palais. :thumbsdown:
 - La Reine aurait selectionné plusieurs nouveaux agents qui auraient pour but d'éliminer toute forme de rebellion dans les peuple elfes. Ils ont déjà commence en faisant disparaitre le Prince Sarvann.
-- La fête chez Nai-Aoelia serait le moment le plus couru de toute la convergente. Pour preuve, la Reine y a fait une apparition remarquée et il s'y serait passé un évènement majeur.
+- La fête chez Nai-Aoelia serait le moment le plus couru de toute la convergence. Pour preuve, la Reine y a fait une apparition remarquée et il s'y serait passé un évènement majeur.
 - Un général du peuple du Givre aurait été puni et condamné à être le garde du corps d'une dame. Qu'a-t-il fait pour subir une telle punition?
 - Aurait-on identifié le Grand Oiseleur? S'agirait-il d'une dame du peuple du Coeur-Marin? 
 - Le Général Voronwë affronterait le Prince des Roses car ce dernier aurait manqué de respect à la bienaimée du Général. 
