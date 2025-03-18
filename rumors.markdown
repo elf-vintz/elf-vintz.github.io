@@ -18,3 +18,5 @@ permalink: /rumors/
 - La fête chez Nai-Aoelia serait le moment le plus couru de toute la convergente. Pour preuve, la Reine y a fait une apparition remarquée et il s'y serait passé un évènement majeur.
 - Un général du peuple du Givre aurait été puni et condamné à être le garde du corps d'une dame. Qu'a-t-il fait pour subir une telle punition?
 - Aurait-on identifié le Grand Oiseleur? S'agirait-il d'une dame du peuple du Coeur-Marin? 
+- Le Général Voronwë affronterait le Prince des Roses car ce dernier aurait manqué de respect à la bienaimée du Général. 
+- Le Grand Oiseleur serait revenu en ville. Il prévoirait de faire un grand spectacle dans les heures à venir. 
