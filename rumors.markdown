@@ -22,3 +22,6 @@ permalink: /rumors/
 - Le Général Voronwe du Peuple du Givre aurait repris le contrôle de ses troupes à proximité de Cylandiel. Envisagerait-il une attaque sur la cité? 
 - Contrairement à la tradition de la pièce de théatre, Le Cantator Inossi Telenius de l’Académie de Blanc-Mesnil prévoirait de donner un récital après le Serment des Cours Unies.
 - Le Prince déchu du Peuplede l'Ombre, Uthorim, serait arrivé en ville suite au jugement du Prince Sarvann. Voudrait-il reprendre son titre?
+- On raconte que la Reine a adopté une jeune femme du Peuple des Bois. On pretendrait qu'elle aurait fait cela pour cacher son idylle naissante avec la demoiselle. 
+- Le prince Isildur entretiendrait une relation amoureuse avec une envolée de la Cours des Plumes. 
+- Dame Artanis aurait été nommée en tant que responsable de la sécurité de la nouvelle favorite de la Reine. Elle serait à la tête d'une troupe de sans visage. 
